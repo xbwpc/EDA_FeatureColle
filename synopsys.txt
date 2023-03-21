@@ -3111,6 +3111,7 @@ VT_CoverageURG
 VT_DVE
 VT_DVENTB
 VT_DVE_COV
+VT_FGP_Runtime
 VT_LCA_Assertions
 VT_LCA_Coverage
 VT_LCA_DEBUG
