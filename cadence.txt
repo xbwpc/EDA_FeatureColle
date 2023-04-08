@@ -1771,6 +1771,7 @@ Spectre_Burst_AllegroSI
 Spectre_Dallas_Semi_Models
 Spectre_EMIR
 Spectre_FX_cpu_accelerator
+Spectre_FX_sc
 Spectre_FX_sc_kernel
 Spectre_Fault_Analysis_opt
 Spectre_Interactive_mode
