@@ -1183,6 +1183,7 @@ LicFileVersion
 Litho_DP_Client
 Litho_Electrical_Analyzer
 Litho_Hotspot_Fixing
+Litho_Machine_Learning_Option
 Litho_Physical_Analyzer
 Low_Power_Simulation_Option
 MAG_LIB
