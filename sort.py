@@ -12,6 +12,8 @@ if __name__=="__main__":
     new_lines = []
     for line in lines:
         l = line.strip(" \r\n")
+        if l == "":
+            continue
         if l not in new_lines:
             new_lines.append(l)
     new_lines.sort()
