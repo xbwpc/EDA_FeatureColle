@@ -265,6 +265,7 @@ ACC_VIP_PCIE_3
 ACC_VIP_SATA_6G
 ACC_VIP_SCD
 ACE_100
+ADE_Artist
 ADE_ElectronStorm_Option
 ADE_Family
 ADE_GXL
@@ -889,6 +890,7 @@ EMXThreading
 EMX_Designer
 EMX_ModelGen
 EMX_Solver
+EMX_Solver_V8
 EM_001
 EM_100
 EM_MESH
@@ -1308,6 +1310,7 @@ MOD_100
 MPT_IMAGE
 MPT_SPACE
 MP_HPC_Token
+MP_HPC_Token_V8
 MSMV
 MS_Option_Layout
 MTI_Opt_Incisive_Specman_Sim
@@ -1954,6 +1957,7 @@ Spectre_ST_Models
 Spectre_Siemens_Models
 Spectre_TI_Models
 Spectre_XPS
+Spectre_X_GPU_MMSIM_Enabler
 Spectre_X_MMSIM_Lk
 Spectre_X_cpu_accelerator
 Spectre_X_sc_kernel
@@ -2228,7 +2232,6 @@ Via_Automation_SKILL_API
 ViewBase
 ViewBaseEngr_ALL
 ViewBase_ALL
-ADE_Artist
 Virtuoso_ADE_Artist
 Virtuoso_ADE_Assembler
 Virtuoso_ADE_Explorer
@@ -2332,6 +2335,7 @@ Virtuoso_Spectre_GXL_MMSIM_Lk
 Virtuoso_Spectre_MB_Enable
 Virtuoso_Spectre_RF
 Virtuoso_Spectre_XL
+Virtuoso_Spectre_X_MMSIM_Lk
 Virtuoso_Sprectre_GXL_MMSIM_LK
 Virtuoso_Stack_Die_Option
 Virtuoso_Turbo
