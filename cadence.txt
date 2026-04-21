@@ -1231,6 +1231,7 @@ Interposer_Extract_20
 Intrica_powerplane_builder
 Joules_Power_SP
 Joules_RTL_Power
+Joules_RTL_Studio
 LAS_Cell_Optimization
 LAYOUT_GXL
 LAYOUT_XL
