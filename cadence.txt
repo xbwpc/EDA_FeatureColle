@@ -582,11 +582,11 @@ CHDL_DesignAccess
 CHDL_DesignAccess_Unix
 CHN_VIS400_NG
 CICNG328
+CICNG_1409
 CICNG_328
 CICNG_328_abc
 CICNG_801
 CICNG_802
-CICNG_1409
 CISOption
 CMM
 CMP_Copper_Prediction_CDN
@@ -1204,6 +1204,7 @@ Innovus_3D_IC_Opt
 Innovus_3nm_Opt
 Innovus_5nm_Opt
 Innovus_7nm_Opt
+Innovus_AI_Impl_System
 Innovus_C
 Innovus_CPU_Opt
 Innovus_DFM
