@@ -724,6 +724,7 @@ Conformal_LP_GXL
 Conformal_Low_Power
 Conformal_Low_Power_GXL
 Conformal_Ultra
+Congestion_Analysis
 Conn2sch_ASG
 Connections
 Continuum
@@ -1930,6 +1931,7 @@ Silicon_Synthesis_QPBS
 SimControl
 SimVision
 Sim_Cov_UNR
+Slotting
 SoC_Kit
 SoC_Verification_Kit
 SoftBlockVaryARPlace
