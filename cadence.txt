@@ -2394,6 +2394,9 @@ WO_226
 WO_228
 WR_INT
 Waveguide_Editor
+WiCkeD_ConstraintEditor
+WiCkeD_SchematicPorting
+WiCkeD_Verification
 WinPlace
 WireEdit
 Wreal_with_1_MMSIM
