@@ -2195,6 +2195,7 @@ VSE_InteractiveExtractor
 VSE_L
 VSE_ObsoleteExtractor
 VSE_RF
+VSRF_100
 VSS_150
 VSS_250
 VSS_350
