@@ -3,6 +3,7 @@ Peakview_EM
 Peakview_EMI
 Peakview_EMquick
 Peakview_EMthread
+Peakview_HCS
 Peakview_LEM
 Peakview_PBM
 Peakview_PBM2
