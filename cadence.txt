@@ -2241,6 +2241,11 @@ Via_Automation_SKILL_API
 ViewBase
 ViewBaseEngr_ALL
 ViewBase_ALL
+ViraStack_SuperAgent_Strt_Base
+ViraStack_Super_Agent_Base
+ViraStack_Super_Agent_Base_Flx
+ViraStack_Super_Agent_Burst
+ViraStack_Super_Agent_PP
 Virtuoso_ADE_Artist
 Virtuoso_ADE_Assembler
 Virtuoso_ADE_Explorer
